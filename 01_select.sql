@@ -9,4 +9,4 @@
 
 --FROM clientes
 
-SELECT * FROM clientes LIMIT 10
+SELECT * FROM clientes 
